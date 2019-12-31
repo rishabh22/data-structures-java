@@ -1,4 +1,4 @@
-package linkedlist;
+package io.github.rishabh22.linkedlist;
 
 public class Node {
     private Object data;
